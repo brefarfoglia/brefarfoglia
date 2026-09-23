@@ -1,9 +1,3 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#6b35a0"  />
-</div>
-
-###
-
 <h1 data-importer="text" align="center">Hey, que bom te ver por aqui!</h1>
 
 ###
@@ -39,11 +33,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brefarfoglia/brefarfoglia/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brefarfoglia/brefarfoglia/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
 </picture>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=40&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#6b35a0"  />
-</div>
-
-###
